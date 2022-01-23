@@ -1,0 +1,68 @@
+main {
+  border: solid 10px #642007;
+  border-radius: 40px;
+}
+
+#title {
+  text-align: center;
+  color: #642007;
+}
+
+p {
+  text-align: center;
+
+}
+
+#name-label {
+  margin: 0 0 0 400px;
+  
+}
+
+#name {
+  margin: 0 0 0 400px;
+  height: 30px;
+  width: 20%;
+}
+
+#last-name {
+  margin: 0 0 0 100px;
+  height: 30px;
+  width: 20%;
+}
+
+#email-label {
+  margin: 0 0 0 400px;
+
+}
+
+#email {
+  margin: 0 0 0 400px;
+  height: 30px;
+  width: 20%;
+}
+
+#number-label {
+  margin: 0 0 0 400px;
+}
+
+#martial-status {
+  margin: 0 0 0 100px;
+}
+
+#male {
+  margin: 0 0 0 400px;
+}
+
+textarea {
+  height: 100px;
+  width: 40%;
+}
+
+footer {
+  margin: 0 0 0 400px;
+}
+
+
+
+
+
